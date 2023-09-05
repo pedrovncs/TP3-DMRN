@@ -1,0 +1,9 @@
+App Movie
+
+Utilizando a plataforma Expo, implemente uma aplicação que contenha uma tela que lista uma relação de filmes exibindo o seu título e uma imagem relacionada. 
+Cada item da lista deve ser criado pela reutilização de um componente específico.
+
+O usuário pode selecionar um desses itens, o que fará uma navegação para uma outra tela que exibe o título do filme, 
+a imagem relacionada, o diretor, o cinema em que ele está em cartaz e horário de início.
+
+Para os dados dos filmes, você pode consumir um arquivo JSON, uma Fake API com json-server ou uma Fake API online, mas, de qualquer forma, deve fazer isso usando requisições HTTP.

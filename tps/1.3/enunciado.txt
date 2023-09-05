@@ -1,0 +1,8 @@
+Lista externa
+
+Utilizando a plataforma Expo, implemente uma aplicação que contenha um componente para listar, de forma simples, 
+uma coleção de objetos quaisquer que sejam provenientes de um repositório externo 
+- você pode consumir um arquivo JSON, uma Fake API com json-server ou uma Fake API online, mas, de qualquer forma, 
+deve fazer isso usando requisições HTTP.
+
+Enquanto os dados estão sendo requisitados, um indicador de carregamento deve ser exibido para o usuário.

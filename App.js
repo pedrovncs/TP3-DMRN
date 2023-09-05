@@ -1,20 +1,19 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { View } from 'react-native';
+import Tp1 from './tps/1.1/1.1';
+import Tp2 from './tps/1.2/1.2';
+import Tp3 from './tps/1.3/1.3';
+import Tp4 from './tps/1.4/1.4';
+import Tp5 from './tps/1.5/1.5';
+
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    // <Tp1 />
+    // <Tp2 />
+    // <Tp3 />
+    // <Tp4 />    
+    <Tp5 />
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+

@@ -1,0 +1,23 @@
+[
+    {
+        "imagem": "https://i.imgur.com/TxWjZ4d.jpg",
+        "nome": "Apocalypse Now",
+        "diretor": "Francis Ford Coppola",
+        "local": "Shopping Super Cinema",
+        "horarios": ["DUB 20:45", "LEG 22:45"]
+    },
+    {
+        "imagem": "https://i.imgur.com/DJmCCLt.png",
+        "nome": "Taxi Driver",
+        "diretor": "Martin Scorsese",
+        "local": "Shopping Cinema Top",
+        "horarios": ["LEG 19:40"]
+    },
+    {
+        "imagem": "https://i.imgur.com/k4ZZKAv.png",
+        "nome": "The Godfather",
+        "diretor": "Francis Ford Coppola",
+        "local": "Shopping Cinemania",
+        "horarios": ["LEG 21:00"]
+    }
+]

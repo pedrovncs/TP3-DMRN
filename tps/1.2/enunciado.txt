@@ -1,0 +1,5 @@
+Lista com ordenação
+
+Utilizando a plataforma Expo, implemente uma aplicação que contenha dois componentes de botão e outro componente para listar, de forma simples, 
+uma coleção de objetos quaisquer que contenham, ao menos, um ID e duas outras propriedades - você pode escolher, por exemplo: nomes, países, carros, comidas etc. 
+O usuário pode selecionar um dos botões, cada qual correspondendo a uma propriedade do item e assim, a lista passa a ficar ordenada pela propriedade correspondente.

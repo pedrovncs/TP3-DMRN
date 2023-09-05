@@ -1,0 +1,9 @@
+Utilizando a plataforma Expo, implemente uma aplicação que contenha uma tela que exiba os seus dados pessoais: nome, idade, telefone e e-mail.
+
+Usando um Drawer, o usuário pode navegar para outras telas em que ele pode ver outras informações sobre você, que são: 
+Informações Pessoais, Formação, Experiência Profissional, Cursos e Publicações.
+
+Para os dados de contato, você pode persistir os dados apenas em memória ou consumir um arquivo JSON, uma Fake API com json-server ou uma Fake API online, 
+mas, de qualquer forma, deve fazer isso usando requisições HTTP.
+
+A aplicação deve ter uma splash screen com uma imagem que te represente.

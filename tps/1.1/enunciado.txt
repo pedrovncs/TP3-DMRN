@@ -1,0 +1,6 @@
+Utilizando a plataforma Expo, implemente uma aplicação que contenha um componente de entrada de texto,
+ um componente de botão e outro componente para listar, de forma simples, uma coleção de objetos quaisquer que contenham, ao menos, um ID e um Título 
+ - você pode escolher, por exemplo: nomes, países, carros, comidas etc.
+
+O usuário pode informar algum texto no campo de entrada e, ao selecionar o botão, a lista deve ser filtrada por itens que contenham em seu título, 
+seja no todo ou em partes, o valor passado pelo usuário.

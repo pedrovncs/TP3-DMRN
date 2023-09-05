@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "nome": "Nomadland",
+        "diretor": "Chloé Zhao",
+        "ano": 2020,
+        "genero": "Drama"
+    },
+    {
+        "id": 2,
+        "nome": "Parasita",
+        "diretor": "Bong Joon-ho",
+        "ano": 2019,
+        "genero": "Drama / Suspense"
+    },
+    {
+        "id": 3,
+        "nome": "Green Book: O Guia",
+        "diretor": "Peter Farrelly",
+        "ano": 2018,
+        "genero": "Drama / Comédia-dramática"
+    },
+    {
+        "id": 4,
+        "nome": "A Forma da Água",
+        "diretor": "Guillermo del Toro",
+        "ano": 2017,
+        "genero": "Romance / Fantasia"
+    },
+    {
+        "id": 5,
+        "nome": "Moonlight: Sob a Luz do Luar",
+        "diretor": "Barry Jenkins",
+        "ano": 2016,
+        "genero": "Drama"
+    },
+    {
+        "id": 6,
+        "nome": "Spotlight: Segredos Revelados",
+        "diretor": "Tom McCarthy",
+        "ano": 2015,
+        "genero": "Drama / Suspense"
+    },
+    {
+        "id": 7,
+        "nome": "Birdman ou (A Inesperada Virtude da Ignorância)",
+        "diretor": "Alejandro González Iñárritu",
+        "ano": 2014,
+        "genero": "Comédia / Drama"
+    },
+    {
+        "id": 8,
+        "nome": "12 Anos de Escravidão",
+        "diretor": "Steve McQueen",
+        "ano": 2013,
+        "genero": "Drama / História"
+    },
+    {
+        "id": 9,
+        "nome": "Argo",
+        "diretor": "Ben Affleck",
+        "ano": 2012,
+        "genero": "Drama / Suspense"
+    },
+    {
+        "id": 10,
+        "nome": "O Artista",
+        "diretor": "Michel Hazanavicius",
+        "ano": 2011,
+        "genero": "Comédia / Drama"
+    },
+    {
+        "id": 11,
+        "nome": "O Discurso do Rei",
+        "diretor": "Tom Hooper",
+        "ano": 2010,
+        "genero": "Drama / História"
+    },
+    {
+        "id": 12,
+        "nome": "Guerra ao Terror",
+        "diretor": "Kathryn Bigelow",
+        "ano": 2009,
+        "genero": "Drama / Guerra"
+    },
+    {
+        "id": 13,
+        "nome": "Quem Quer Ser um Milionário?",
+        "diretor": "Danny Boyle",
+        "ano": 2008,
+        "genero": "Drama / Romance"
+    },
+    {
+        "id": 14,
+        "nome": "Onde os Fracos Não Têm Vez",
+        "diretor": "Joel e Ethan Coen",
+        "ano": 2007,
+        "genero": "Crime / Drama"
+    },
+    {
+        "id": 15,
+        "nome": "Os Infiltrados",
+        "diretor": "Martin Scorsese",
+        "ano": 2006,
+        "genero": "Crime / Drama"
+    }
+]

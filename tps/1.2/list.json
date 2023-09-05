@@ -1,0 +1,206 @@
+[
+    {
+      "id": 5,
+      "titulo": "Super Mario Odyssey",
+      "plataforma": "Nintendo Switch",
+      "nota": 97,
+      "genero": "Ação / Plataforma"
+    },
+    {
+      "id": 3,
+      "titulo": "The Witcher 3: Wild Hunt",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 94,
+      "genero": "RPG"
+    },
+    {
+      "id": 11,
+      "titulo": "Ori and the Will of the Wisps",
+      "plataforma": "PC, Xbox One",
+      "nota": 90,
+      "genero": "Plataforma"
+    },
+    {
+      "id": 10,
+      "titulo": "Celeste",
+      "plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+      "nota": 91,
+      "genero": "Plataforma"
+    },
+    {
+      "id": 12,
+      "titulo": "Cyberpunk 2077",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 72,
+      "genero": "RPG de Ação"
+    },
+    {
+      "id": 17,
+      "titulo": "Control",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 85,
+      "genero": "Ação / Aventura"
+    },
+    {
+      "id": 8,
+      "titulo": "Hades",
+      "plataforma": "PC, Nintendo Switch",
+      "nota": 93,
+      "genero": "Roguelike"
+    },
+    {
+      "id": 6,
+      "titulo": "God of War (2018)",
+      "plataforma": "PlayStation 4",
+      "nota": 94,
+      "genero": "Ação / Aventura"
+    },
+    {
+      "id": 27,
+      "titulo": "Ride to Hell: Retribution",
+      "plataforma": "PlayStation 3, Xbox 360, PC",
+      "nota": 18,
+      "genero": "Ação"
+    },
+    {
+      "id": 15,
+      "titulo": "Resident Evil Village",
+      "plataforma": "PlayStation 5, Xbox Series X/S, PC",
+      "nota": 79,
+      "genero": "Survival Horror"
+    },
+    {
+      "id": 4,
+      "titulo": "Dark Souls III",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 89,
+      "genero": "RPG de Ação"
+    },
+    {
+      "id": 14,
+      "titulo": "Animal Crossing: New Horizons",
+      "plataforma": "Nintendo Switch",
+      "nota": 87,
+      "genero": "Simulação"
+    },
+    {
+      "id": 25,
+      "titulo": "Fallout 76",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 52,
+      "genero": "RPG de Ação"
+    },
+    {
+      "id": 7,
+      "titulo": "The Last of Us Part II",
+      "plataforma": "PlayStation 4",
+      "nota": 93,
+      "genero": "Ação / Aventura"
+    },
+    {
+      "id": 30,
+      "titulo": "Rambo: The Video Game",
+      "plataforma": "PlayStation 3, Xbox 360, PC",
+      "nota": 22,
+      "genero": "Tiro em Primeira Pessoa"
+    },
+    {
+      "id": 2,
+      "titulo": "Red Dead Redemption 2",
+      "plataforma": "PlayStation 4, Xbox One",
+      "nota": 96,
+      "genero": "Ação / Aventura"
+    },
+    {
+      "id": 9,
+      "titulo": "Demon's Souls (2020)",
+      "plataforma": "PlayStation 5",
+      "nota": 92,
+      "genero": "RPG de Ação"
+    },
+    {
+      "id": 16,
+      "titulo": "Ghost of Tsushima",
+      "plataforma": "PlayStation 4",
+      "nota": 83,
+      "genero": "Ação / Aventura"
+    },
+    {
+      "id": 20,
+      "titulo": "Minecraft",
+      "plataforma": "Múltiplas Plataformas",
+      "nota": 90,
+      "genero": "Sandbox"
+    },
+    {
+      "id": 21,
+      "titulo": "Anthem",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 55,
+      "genero": "Ação / RPG"
+    },
+    {
+      "id": 13,
+      "titulo": "Sekiro: Shadows Die Twice",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 88,
+      "genero": "Ação / Aventura"
+    },
+    {
+      "id": 28,
+      "titulo": "Shaq Fu: A Legend Reborn",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 28,
+      "genero": "Luta"
+    },
+    {
+      "id": 26,
+      "titulo": "Aliens: Colonial Marines",
+      "plataforma": "PlayStation 3, Xbox 360, PC",
+      "nota": 43,
+      "genero": "Tiro em Primeira Pessoa"
+    },
+    {
+      "id": 18,
+      "titulo": "DOOM Eternal",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 87,
+      "genero": "Tiro em Primeira Pessoa"
+    },
+    {
+      "id": 19,
+      "titulo": "Fall Guys: Ultimate Knockout",
+      "plataforma": "PlayStation 4, PC",
+      "nota": 78,
+      "genero": "Battle Royale"
+    },
+    {
+      "id": 1,
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "plataforma": "Nintendo Switch",
+      "nota": 97,
+      "genero": "Aventura"
+    },
+    {
+      "id": 23,
+      "titulo": "Mass Effect: Andromeda",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 70,
+      "genero": "RPG de Ação"
+    },
+    {
+      "id": 29,
+      "titulo": "Bubsy: The Woolies Strike Back",
+      "plataforma": "PlayStation 4, PC",
+      "nota": 35,
+      "genero": "Plataforma"
+    },
+    {
+      "id": 24,
+      "titulo": "No Man's Sky",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "nota": 58,
+      "genero": "Aventura / Exploração Espacial"
+    }
+  ]
+  
